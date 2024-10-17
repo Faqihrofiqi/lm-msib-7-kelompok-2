@@ -1,0 +1,9 @@
+Summary 
+
+nama : abdillaah
+panggilan : abdi
+jurusan : Teknologi informasi
+Fakultas : Teknik dan Informatika
+Impian : menjadi front end developer
+
+saya suadh mempelajari SDLC & Design Thinking Implementation dan Basic Git & Collaborating Using Git
