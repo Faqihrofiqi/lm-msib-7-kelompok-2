@@ -1,5 +1,0 @@
-Fauzan Muhtadi
-Fauzan
-Fisika, FMIPA, UI angkatan 2013
-Fullstack Developer
-_______________________________________________________________________________________________________________
