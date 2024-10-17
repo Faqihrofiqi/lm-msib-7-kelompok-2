@@ -1,5 +1,5 @@
-Muhammad Rizky Ardian
-Ekky
-Sistem Informasi, Fakutas Teknik , Universitas Persada Indonesia Yai
+Muhammad Rizky Ardian,
+Ekky,
+Sistem Informasi, Fakutas Teknik , Universitas Persada Indonesia Yai,
 Fullstack Developer
 _________________________________________________________________________________________________
