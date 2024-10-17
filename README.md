@@ -3,3 +3,8 @@ Fauzan
 Fisika, FMIPA, UI angkatan 2013
 Fullstack Developer
 _______________________________________________________________________________________________________________
+Hana Dewi Shoviyah
+Hana
+Teknik Informatika, FMIPA, Universitas Negeri Semarang, 2021
+Fullstack Developer
+_______________________________________________________________________________________________________________
