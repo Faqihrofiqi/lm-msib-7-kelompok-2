@@ -1,5 +1,7 @@
-Fauzan Muhtadi
-Fauzan
-Fisika, FMIPA, UI angkatan 2013
-Fullstack Developer
+Hendrika Restu Prayoga
+Asal Pati
+Universitas Muria Kudus
+Prodi Sistem Informasi
+Semester 5
+Cita Cita : Menjadi seorang Web Development fullstack 
 _______________________________________________________________________________________________________________
