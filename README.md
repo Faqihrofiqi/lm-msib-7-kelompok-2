@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-Nur Haslinda
-D4 Manajemen Informatika
-Universitas Negeri Surabaya
-Angkatan 2021
-Product Manager
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-=======
+
 Fauzan Muhtadi
 Fauzan
 Fisika, FMIPA, UI angkatan 2013
@@ -31,4 +24,13 @@ Nahla Putri Gunawan
 Nala
 Sistem Informasi, Sekolah Tinggi Teknologi Terpadu Nurul Fikri angkatan 2022
 UI/UX Designer
->>>>>>> c3f76f5967eb7422e6a7d2769c0ed3e31703fdec
+
+---
+
+Nur Haslinda
+D4 Manajemen Informatika
+Universitas Negeri Surabaya
+Angkatan 2021
+Product Manager
+
+----
