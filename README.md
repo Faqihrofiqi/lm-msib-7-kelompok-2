@@ -16,3 +16,10 @@ Adzka Fahmi
 Adzka
 Sistem Informasi, FIK, Universitas Sriwijaya angkatan 2022
 Dosen Informatika
+
+---
+
+Nahla Putri Gunawan
+Nala
+Sistem Informasi, Sekolah Tinggi Teknologi Terpadu Nurul Fikri angkatan 2022
+UI/UX Designer
